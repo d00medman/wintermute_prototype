@@ -2,6 +2,12 @@
 
 ## 12/20/19
 
+ Hit another major inflection point. I was able to get a roughly successful run at the gridworld problem using data I manufactured for the state.
+
+ Next step is to stream actions into the environment, which will begin the agent-environment feedback loop. Getting to this position before the fuel of this (pretty wildly productive) hard burn would be close to ideal for me.
+
+Update 2:22 PM^
+
 Wintermute is a learning Agent whose goal is to successfully play Final Fantasy. Final Fantasy is the progenitor of the role playing game.
 No remotely-publicized attention has been given to the challenge of creating a learning agent to play RPGs. This is a shame, because
 RPGs contain both the thought processes required for true intelligence: Long term planning and execution and the ability to derive a goal
